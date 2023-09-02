@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Electronics on Main Blog</title><link>https://chepo92.github.io/blog/categories/electronics/</link><description>Recent content in Electronics on Main Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chepo92.github.io/blog/categories/electronics/index.xml" rel="self" type="application/rss+xml"/><item><title>Debugging ARM Cortex with VScode Part 1</title><link>https://chepo92.github.io/blog/p/hello-world/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://chepo92.github.io/blog/p/hello-world/</guid><description>&lt;img src="https://chepo92.github.io/blog/p/hello-world/cover.jpg" alt="Featured image of post Debugging ARM Cortex with VScode Part 1" />&lt;p>Getting started into debugging with arduino DUE and example blink&lt;/p>
+&lt;p>We need&lt;/p>
+&lt;ul>
+&lt;li>VSCode with: platformio and cortex-debug extension&lt;/li>
+&lt;li>Arduino DUE&lt;/li>
+&lt;/ul></description></item></channel></rss>
